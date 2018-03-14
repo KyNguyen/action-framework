@@ -1,0 +1,6 @@
+C:\Users\Kyle\Documents\GitHub\action-framework\ActionFramework\ActionFramework\bin\Debug\ActionFramework.dll
+C:\Users\Kyle\Documents\GitHub\action-framework\ActionFramework\ActionFramework\bin\Debug\ActionFramework.pdb
+C:\Users\Kyle\Documents\GitHub\action-framework\ActionFramework\ActionFramework\obj\Debug\ActionFramework.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\GitHub\action-framework\ActionFramework\ActionFramework\obj\Debug\ActionFramework.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\GitHub\action-framework\ActionFramework\ActionFramework\obj\Debug\ActionFramework.dll
+C:\Users\Kyle\Documents\GitHub\action-framework\ActionFramework\ActionFramework\obj\Debug\ActionFramework.pdb
