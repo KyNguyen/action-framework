@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace ActionFramework
 {
-    public class Class1
+    public class TestException : Exception
     {
+        public TestException(string message) : base(message)
+        {
+        }
     }
 }
